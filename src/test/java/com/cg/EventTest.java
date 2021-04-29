@@ -30,7 +30,7 @@ public class EventTest {
 	}
 	
 	
-	  @Test 
+	  /*@Test 
 	  public void addEventTest() { 
 		  event.setName("Holi");
 	  event.setAmount(5000); 
@@ -47,16 +47,16 @@ public class EventTest {
 	  
 	  }
 	 
-		/*
+		
 		 * @Test public void getAllEvents() {
 		 * 
 		 * assertEquals(event.getName(),"null");
 		 * assertNotEquals(event.getAmount(),"null");
 		 * 
 		 * }
-		 */
+		 
 	 	
-		/*
+		
 		  @Test 
 		  public void deleteEventTest() 
 		  { 
